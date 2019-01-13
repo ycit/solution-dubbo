@@ -1,0 +1,4 @@
+rootProject.name = 'solution-dubbo'
+include 'provider'
+include 'consumer'
+
